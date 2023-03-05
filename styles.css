@@ -17,6 +17,10 @@ body {
     margin-left: auto;
 }
 
+header {
+    width: 100%;
+}
+
 /* Hamburger Menu */
 
 .container {
