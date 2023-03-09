@@ -30,14 +30,15 @@ header ul li {
   flex-direction: row;
   justify-content: center;
   flex: auto;
+  width: 125px;
 }
 
 header ul li img {
+  display: block;
   width: 40px;
   height: 40px;
   opacity: 0.5;
-  margin-top: 15px;
-  margin-left: 15px;
+  margin: 10px auto;
   border-radius: 50%;
 }
 
@@ -134,8 +135,6 @@ button:hover {
   }
 
   header nav ul li img {
-    display: block;
-    margin: 10px auto 5px auto;
     height: 50px;
     width: 50px;
   }
