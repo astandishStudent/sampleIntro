@@ -1,3 +1,3 @@
-function myFunction(x) {
+function oopsBurger(x) {
     x.classList.toggle("change");
   }
